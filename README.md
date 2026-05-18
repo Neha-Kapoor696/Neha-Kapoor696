@@ -33,5 +33,7 @@ A full-stack parental control and smartphone monitoring system
 📬 Connect With Me
 
 📧 Email: nk5363176@gmail.com
-💼 LinkedIn: linkedin.com/in/neha-kapoor
+💼 LinkedIn: www.linkedin.com/in/
+neha-kapoor-0356793b0
+
 🐙 GitHub: github.com/Neha-Kapoor696
